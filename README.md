@@ -32,7 +32,7 @@
    - `coin`: one of `bitcoin`, `matic-network`, `ethereum`  
    **Example:**
    ```bash
-   /api/stats?coin=bitcoin
+   https://koinx-1-1k91.onrender.com/api/stats?coin=bitcoin
 
 2. **`/api/deviation?coin=<coin>`**  
    Fetch the deviation of past 100 records.  
@@ -40,4 +40,4 @@
    - `coin`: one of `bitcoin`, `matic-network`, `ethereum`  
    **Example:**
    ```bash
-   /api/deviation?coin=bitcoin
+   https://koinx-1-1k91.onrender.com/api/deviation?coin=bitcoin
